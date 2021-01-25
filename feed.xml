@@ -1,42 +1,209 @@
-<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
-<channel>
-<title>Riyadh Resistance Committee Podcast</title>
-<googleplay:author>Riyadh Resistance Committee</googleplay:author>
-<rawvoice:rating>TV-G</rawvoice:rating>
-<rawvoice:location>Khartoum, Sudan</rawvoice:location>
-<rawvoice:frequency>Weekly</rawvoice:frequency>
-<author>Riyadh Resistance Committee</author>
-<itunes:author>Riyadh Resistance Committee</itunes:author>
-<itunes:email>sample@gmail.com</itunes:email>
-<itunes:category text="Politics"/>
-<image>
-<url>https://riyadhrc.github.io/player/web/img/icon.png</url>
-<title>Riyadh Resistance Committee Podcast</title>
-<link>https://riyadhrc.github.io/player/web/</link>
-</image>
-<itunes:owner>
-<itunes:name>Riyadh Resisance Committee</itunes:name>
-<itunes:email>riyahd.committee@gmail.com</itunes:email>
-</itunes:owner>
-<itunes:keywords>politics,sudan</itunes:keywords>
-<copyright>Riyadh Resisance Committee</copyright>
-<description>A modern way for the people of Riyadh to keep up with the news</description>
-<googleplay:image href="https://riyadhrc.github.io/player/web/img/icon.png"/>
-<language>ar</language>
-<itunes:explicit>no</itunes:explicit>
-<pubDate>Mon, 13 Apr 2020 13:00:00 PDT</pubDate>
-<link>https://riyadhrc.github.io/player/web/feed.xml</link>
-<itunes:image href="https://riyadhrc.github.io/player/web/img/icon.png"/>
-<item>
-<author>Unknown</author>
-<itunes:author>Unknown</itunes:author>
-<title>السودان 23 جويلية 1954 حفل نادي الضباط</title>
-<pubDate> Fri, 16 Oct 2020 21:00:00 EET</pubDate>
-<enclosure url="https://ia801308.us.archive.org/4/items/souden1954-tessgilette-zemene/%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86%2023%20%D8%AC%D9%88%D9%8A%D9%84%D9%8A%D8%A9%201954.mp3" type="audio/mpeg" length="1541"/>
-<itunes:duration>25:41</itunes:duration>
-<guid isPermaLink="false">cepod01</guid>
-<itunes:explicit>no</itunes:explicit>
-<description>Pilot episode to test the cast</description>
-</item>
-</channel>
+<rss version="2.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
+    <channel>
+        <title>Heart Rate Variability Podcast</title>
+        <atom:link href="https://optimalhrv.com/feed/podcast" rel="self" type="application/rss+xml"/>
+        <link>https://optimalhrv.com/</link>
+        <description>Welcome to the Heart Rate Variability Podcast where we discuss the research and applications of heart rate variability.</description>
+        <lastBuildDate>Wed, 20 Jan 2021 01:14:35 +0000</lastBuildDate>
+        <language>en-US</language>
+        <copyright>© 2020 Bennett Innovation Group, L3C</copyright>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:author>Matt Bennett and Jeff Somers</itunes:author>
+        <itunes:type>episodic</itunes:type>
+        <itunes:summary>Welcome to the Heart Rate Variability Podcast where we discuss the research and applications of heart rate variability.</itunes:summary>
+        <itunes:owner>
+            <itunes:name>Optimal HRV</itunes:name>
+            <itunes:email>matt@bigL3C.org</itunes:email>
+        </itunes:owner>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:image href="https://optimalhrv.com/wp-content/uploads/2020/07/Logo-1.png"></itunes:image>
+        <image>
+            <url>https://optimalhrv.com/wp-content/uploads/2020/07/Logo-1.png</url>
+            <title>Heart Rate Variability Podcast</title>
+            <link>https://optimalhrv.com/</link>
+        </image>
+        <itunes:category text="Health &amp; Fitness">
+            <itunes:category text="Mental Health"></itunes:category>
+        </itunes:category>
+        <itunes:category text="Business">
+            <itunes:category text="Non-profit"></itunes:category>
+        </itunes:category>
+        <itunes:category text="Science">
+            <itunes:category text="Social Sciences"></itunes:category>
+        </itunes:category>
+
+        <generator>https://wordpress.org/?v=5.6</generator>
+        <item>
+            <title>Further Exploration of Job-Demands and Resource Model</title>
+            <link>https://optimalhrv.com/podcast/further-exploration-of-job-demands-and-resource-model/</link>
+            <pubDate>Tue, 12 Jan 2021 01:32:35 +0000</pubDate>
+            <dc:creator>Matthew Bennett</dc:creator>
+            <guid isPermaLink="false">https://optimalhrv.com/?post_type=podcast&#038;p=3075</guid>
+            <description><![CDATA[<p>In this episode, Jeff and Matt continue their exploration into Job-Demands and Resources. We look at how Job Resources counteract stress, prevents burnout, and promote engagement. Also, we explore how heart rate variability can add new insight to this well-established model.</p>
+<p></p>
+]]>            </description>
+            <itunes:subtitle><![CDATA[In this episode, Jeff and Matt continue their exploration into Job-Demands and Resources. We look at how Job Resources counteract stress, prevents burnout, and promote engagement. Also, we explore how heart rate variability can add new insight to this we]]></itunes:subtitle>
+            <itunes:keywords>burnout,heart rate variability,hrv,hrv business,jeff somers,job demand,job resources,matt bennett</itunes:keywords>
+            <content:encoded><![CDATA[<p>In this episode, Jeff and Matt continue their exploration into Job-Demands and Resources. We look at how Job Resources counteract stress, prevents burnout, and promote engagement. Also, we explore how heart rate variability can add new insight to this well-established model.</p>
+<p></p>
+]]>            </content:encoded>
+            <enclosure url="https://optimalhrv.com/podcast-download/3075/further-exploration-of-job-demands-and-resource-model.m4a" length="64532277" type="audio/mpeg"></enclosure>
+            <itunes:summary><![CDATA[In this episode, Jeff and Matt continue their exploration into Job-Demands and Resources. We look at how Job Resources counteract stress, prevents burnout, and promote engagement. Also, we explore how heart rate variability can add new insight to this well-established model.]]></itunes:summary>
+            <itunes:image href="https://optimalhrv.com/wp-content/uploads/2021/01/job-demands-and-resources-burnout.png"></itunes:image>
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:block>no</itunes:block>
+            <itunes:duration>00:48:02</itunes:duration>
+            <itunes:author>Matthew Bennett</itunes:author>
+        </item>
+        <item>
+            <title>Job Demand &#038; Resource Model</title>
+            <link>https://optimalhrv.com/podcast/job-demand-resource-model/</link>
+            <pubDate>Tue, 05 Jan 2021 01:58:21 +0000</pubDate>
+            <dc:creator>Matthew Bennett</dc:creator>
+            <guid isPermaLink="false">https://optimalhrv.com/?post_type=podcast&#038;p=3072</guid>
+            <description><![CDATA[<p>In our first episode of 2021, Jeff and Matt discuss one of the best-researched models of work stress, the Job Demands &amp; Resources Model. There is a great deal of insight into how this model can help us understand our own wellness and productivity and those of teams and organizations. We will also explore how heart rate variability helps quantify the impact of job demands and whether our self-care and job resources keep us healthy or burn us out.</p>
+<p></p>
+]]>            </description>
+            <itunes:subtitle><![CDATA[In our first episode of 2021, Jeff and Matt discuss one of the best-researched models of work stress, the Job Demands &amp; Resources Model. There is a great deal of insight into how this model can help us understand our own wellness and productivity and]]></itunes:subtitle>
+            <itunes:keywords>burnout,heart rate variability,hrv,hrv business,jeff somers,job demand,job resources,matt bennett</itunes:keywords>
+            <content:encoded><![CDATA[<p>In our first episode of 2021, Jeff and Matt discuss one of the best-researched models of work stress, the Job Demands &amp; Resources Model. There is a great deal of insight into how this model can help us understand our own wellness and productivity and those of teams and organizations. We will also explore how heart rate variability helps quantify the impact of job demands and whether our self-care and job resources keep us healthy or burn us out.</p>
+<p></p>
+]]>            </content:encoded>
+            <enclosure url="https://optimalhrv.com/podcast-download/3072/job-demand-resource-model.m4a" length="49665968" type="audio/mpeg"></enclosure>
+            <itunes:summary><![CDATA[In our first episode of 2021, Jeff and Matt discuss one of the best-researched models of work stress, the Job Demands &amp; Resources Model. There is a great deal of insight into how this model can help us understand our own wellness and productivity and those of teams and organizations. We will also explore how heart rate variability helps quantify the impact of job demands and whether our self-care and job resources keep us healthy or burn us out.]]></itunes:summary>
+            <itunes:image href="https://optimalhrv.com/wp-content/uploads/2021/01/job-demands-and-resources-burnout.png"></itunes:image>
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:block>no</itunes:block>
+            <itunes:duration>0:00:00</itunes:duration>
+            <itunes:author>Matthew Bennett</itunes:author>
+        </item>
+        <item>
+            <title>Becca Sheade Joins the Show to Talk HRV in Occupational Therapy</title>
+            <link>https://optimalhrv.com/podcast/becca-sheade-joins-the-show-to-talk-hrv-in-occupational-therapy/</link>
+            <pubDate>Tue, 15 Dec 2020 01:29:24 +0000</pubDate>
+            <dc:creator>Matthew Bennett</dc:creator>
+            <guid isPermaLink="false">https://optimalhrv.com/?post_type=podcast&#038;p=3050</guid>
+            <description><![CDATA[<p>We are excited to have our first guest, Becca Sheade founder of Elgin Pediatric Therapy. Learn how Becca has integrated HRV into her practice and some of the exciting results.</p>
+<p>Find out more about the great working being done at Becca&#8217;s clinic: <span style="text-decoration: underline;">http://elginpediatrictherapy.com/</span> &amp; <span style="text-decoration: underline;">becca@elginpediatrictherapy.com</span></p>
+<p>&nbsp;</p>
+<p></p>
+]]>            </description>
+            <itunes:subtitle><![CDATA[We are excited to have our first guest, Becca Sheade founder of Elgin Pediatric Therapy. Learn how Becca has integrated HRV into her practice and some of the exciting results.
+Find out more about the great working being done at Becca&#8217;s clinic: http]]></itunes:subtitle>
+            <itunes:keywords>becca sheade,heart rate variability,hrv,jeff somers,matt bennett,occupational therapy,ot</itunes:keywords>
+            <content:encoded><![CDATA[<p>We are excited to have our first guest, Becca Sheade founder of Elgin Pediatric Therapy. Learn how Becca has integrated HRV into her practice and some of the exciting results.</p>
+<p>Find out more about the great working being done at Becca&#8217;s clinic: <span style="text-decoration: underline;">http://elginpediatrictherapy.com/</span> &amp; <span style="text-decoration: underline;">becca@elginpediatrictherapy.com</span></p>
+<p>&nbsp;</p>
+<p></p>
+]]>            </content:encoded>
+            <enclosure url="https://optimalhrv.com/podcast-download/3050/becca-sheade-joins-the-show-to-talk-hrv-in-occupational-therapy.m4a" length="52681888" type="audio/mpeg"></enclosure>
+            <itunes:summary><![CDATA[We are excited to have our first guest, Becca Sheade founder of Elgin Pediatric Therapy. Learn how Becca has integrated HRV into her practice and some of the exciting results.
+Find out more about the great working being done at Becca&#8217;s clinic: http://elginpediatrictherapy.com/ &amp; becca@elginpediatrictherapy.com
+&nbsp;]]></itunes:summary>
+            <itunes:image href="https://optimalhrv.com/wp-content/uploads/2020/12/Photo-on-12-11-20-at-2.44-PM-3.jpg"></itunes:image>
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:block>no</itunes:block>
+            <itunes:duration>00:39:05</itunes:duration>
+            <itunes:author>Matthew Bennett</itunes:author>
+        </item>
+        <item>
+            <title>Heart Rate Variability Time Off</title>
+            <link>https://optimalhrv.com/podcast/heart-rate-variability-time-off/</link>
+            <pubDate>Tue, 08 Dec 2020 01:58:19 +0000</pubDate>
+            <dc:creator>Matthew Bennett</dc:creator>
+            <guid isPermaLink="false">https://optimalhrv.com/?post_type=podcast&#038;p=3048</guid>
+            <description><![CDATA[<p>In this episode, Jeff and Matt explore the concept of HRV friendly time off and vacations. How we choose to spend our time off will determine whether we recover or wear ourselves down even more. Learn some best practices on this episode to come back from vacation refreshed and healthy.</p>
+<p></p>
+]]>            </description>
+            <itunes:subtitle><![CDATA[In this episode, Jeff and Matt explore the concept of HRV friendly time off and vacations. How we choose to spend our time off will determine whether we recover or wear ourselves down even more. Learn some best practices on this episode to come back from]]></itunes:subtitle>
+            <itunes:keywords>burnout,heart rate variability,hrv,hrv business,jeff somers,matt bennett,time off,vacation</itunes:keywords>
+            <content:encoded><![CDATA[<p>In this episode, Jeff and Matt explore the concept of HRV friendly time off and vacations. How we choose to spend our time off will determine whether we recover or wear ourselves down even more. Learn some best practices on this episode to come back from vacation refreshed and healthy.</p>
+<p></p>
+]]>            </content:encoded>
+            <enclosure url="https://optimalhrv.com/podcast-download/3048/heart-rate-variability-time-off.m4a" length="45510243" type="audio/mpeg"></enclosure>
+            <itunes:summary><![CDATA[In this episode, Jeff and Matt explore the concept of HRV friendly time off and vacations. How we choose to spend our time off will determine whether we recover or wear ourselves down even more. Learn some best practices on this episode to come back from vacation refreshed and healthy.]]></itunes:summary>
+            <itunes:image href="https://optimalhrv.com/wp-content/uploads/2020/12/Snowboard.jpg"></itunes:image>
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:block>no</itunes:block>
+            <itunes:duration>00:33:46</itunes:duration>
+            <itunes:author>Matthew Bennett</itunes:author>
+        </item>
+        <item>
+            <title>Heart Rate Variability &#038; Leadership</title>
+            <link>https://optimalhrv.com/podcast/heart-rate-variability-leadership/</link>
+            <pubDate>Tue, 01 Dec 2020 01:25:34 +0000</pubDate>
+            <dc:creator>Matthew Bennett</dc:creator>
+            <guid isPermaLink="false">https://optimalhrv.com/?post_type=podcast&#038;p=3045</guid>
+            <description><![CDATA[<p>In this episode, Jeff and Matt discuss how leaders can use HRV as a competitive advantage. There is a direct connection between mental health, productivity, and outcomes. HRV help quantify the mental health of the workforce providing leaders a key insight into performance and engagement.</p>
+<p>&nbsp;</p>
+<p></p>
+]]>            </description>
+            <itunes:subtitle><![CDATA[In this episode, Jeff and Matt discuss how leaders can use HRV as a competitive advantage. There is a direct connection between mental health, productivity, and outcomes. HRV help quantify the mental health of the workforce providing leaders a key insigh]]></itunes:subtitle>
+            <itunes:keywords>heart rate variability,hrv,hrv business,hrv management,jeff somers,matt bennett</itunes:keywords>
+            <content:encoded><![CDATA[<p>In this episode, Jeff and Matt discuss how leaders can use HRV as a competitive advantage. There is a direct connection between mental health, productivity, and outcomes. HRV help quantify the mental health of the workforce providing leaders a key insight into performance and engagement.</p>
+<p>&nbsp;</p>
+<p></p>
+]]>            </content:encoded>
+            <enclosure url="https://optimalhrv.com/podcast-download/3045/heart-rate-variability-leadership.m4a" length="43620777" type="audio/mpeg"></enclosure>
+            <itunes:summary><![CDATA[In this episode, Jeff and Matt discuss how leaders can use HRV as a competitive advantage. There is a direct connection between mental health, productivity, and outcomes. HRV help quantify the mental health of the workforce providing leaders a key insight into performance and engagement.
+&nbsp;]]></itunes:summary>
+            <itunes:image href="https://optimalhrv.com/wp-content/uploads/2020/11/ING_19061_210929.jpg"></itunes:image>
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:block>no</itunes:block>
+            <itunes:duration>00:32:14</itunes:duration>
+            <itunes:author>Matthew Bennett</itunes:author>
+        </item>
+        <item>
+            <title>Team Health &#038; Heart Rate Variability</title>
+            <link>https://optimalhrv.com/podcast/team-health-heart-rate-variability/</link>
+            <pubDate>Tue, 24 Nov 2020 01:15:32 +0000</pubDate>
+            <dc:creator>Matthew Bennett</dc:creator>
+            <guid isPermaLink="false">https://optimalhrv.com/?post_type=podcast&#038;p=3043</guid>
+            <description><![CDATA[<p>In this episode, Jeff and Matt discuss how HRV quantified team and organizational health. Traditionally, we have struggled to measure the impact of employee health and wellness on productivity, engagement, and quality. HRV provides a key organizational quality measure for the health of the workforce.</p>
+<p></p>
+]]>            </description>
+            <itunes:subtitle><![CDATA[In this episode, Jeff and Matt discuss how HRV quantified team and organizational health. Traditionally, we have struggled to measure the impact of employee health and wellness on productivity, engagement, and quality. HRV provides a key organizational q]]></itunes:subtitle>
+            <itunes:keywords>group hrv,heart rate variability,hrv,hrv business,jeff somers,matt bennett</itunes:keywords>
+            <content:encoded><![CDATA[<p>In this episode, Jeff and Matt discuss how HRV quantified team and organizational health. Traditionally, we have struggled to measure the impact of employee health and wellness on productivity, engagement, and quality. HRV provides a key organizational quality measure for the health of the workforce.</p>
+<p></p>
+]]>            </content:encoded>
+            <enclosure url="https://optimalhrv.com/podcast-download/3043/team-health-heart-rate-variability.m4a" length="45344238" type="audio/mpeg"></enclosure>
+            <itunes:summary><![CDATA[In this episode, Jeff and Matt discuss how HRV quantified team and organizational health. Traditionally, we have struggled to measure the impact of employee health and wellness on productivity, engagement, and quality. HRV provides a key organizational quality measure for the health of the workforce.]]></itunes:summary>
+            <itunes:image href="https://optimalhrv.com/wp-content/uploads/2020/11/ING_32193_08218.jpg"></itunes:image>
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:block>no</itunes:block>
+            <itunes:duration>00:33:42</itunes:duration>
+            <itunes:author>Matthew Bennett</itunes:author>
+        </item>
+        <item>
+            <title>Self-care &#038; Heart Rate Variability</title>
+            <link>https://optimalhrv.com/podcast/self-care-heart-rate-variability/</link>
+            <pubDate>Tue, 17 Nov 2020 01:54:35 +0000</pubDate>
+            <dc:creator>Matthew Bennett</dc:creator>
+            <guid isPermaLink="false">https://optimalhrv.com/?post_type=podcast&#038;p=3040</guid>
+            <description><![CDATA[<p>In this episode, Matt and Jeff discuss how HRV can help quantify our self-care efforts and warn us about burnout.</p>
+<p></p>
+]]>            </description>
+            <itunes:subtitle><![CDATA[In this episode, Matt and Jeff discuss how HRV can help quantify our self-care efforts and warn us about burnout.]]></itunes:subtitle>
+            <itunes:keywords>burnout,heart rate variability,hrv,jeff somers,matt bennett,self care</itunes:keywords>
+            <content:encoded><![CDATA[<p>In this episode, Matt and Jeff discuss how HRV can help quantify our self-care efforts and warn us about burnout.</p>
+<p></p>
+]]>            </content:encoded>
+            <enclosure url="https://optimalhrv.com/podcast-download/3040/self-care-heart-rate-variability.m4a" length="40032800" type="audio/mpeg"></enclosure>
+            <itunes:summary><![CDATA[In this episode, Matt and Jeff discuss how HRV can help quantify our self-care efforts and warn us about burnout.]]></itunes:summary>
+            <itunes:image href="https://optimalhrv.com/wp-content/uploads/2020/11/ISS_00906_16362_1.jpg"></itunes:image>
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:block>no</itunes:block>
+            <itunes:duration>00:29:44</itunes:duration>
+            <itunes:author>Matthew Bennett</itunes:author>
+        </item>
+    </channel>
 </rss>
