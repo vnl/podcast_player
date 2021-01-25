@@ -43,7 +43,7 @@ class EpisodeDetails extends StatelessWidget {
                       child: GestureDetector(
                         onTap: () => launch(kSpotifyLink),
                         child: Image.network(
-                            'https://github.com/rodydavis/podcast-player/blob/master/player/web/img/spotify.png'),
+                            'https://developer.spotify.com/assets/branding-guidelines/logo@2x.png'),
                       ),
                     ),
                   ],
