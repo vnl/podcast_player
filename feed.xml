@@ -1,0 +1,42 @@
+<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<channel>
+<title>Riyadh Resistance Committee Podcast</title>
+<googleplay:author>Riyadh Resistance Committee</googleplay:author>
+<rawvoice:rating>TV-G</rawvoice:rating>
+<rawvoice:location>Khartoum, Sudan</rawvoice:location>
+<rawvoice:frequency>Weekly</rawvoice:frequency>
+<author>Riyadh Resistance Committee</author>
+<itunes:author>Riyadh Resistance Committee</itunes:author>
+<itunes:email>sample@gmail.com</itunes:email>
+<itunes:category text="Politics"/>
+<image>
+<url>https://riyadhrc.github.io/player/web/img/icon.png</url>
+<title>Riyadh Resistance Committee Podcast</title>
+<link>https://riyadhrc.github.io/player/web/</link>
+</image>
+<itunes:owner>
+<itunes:name>Riyadh Resisance Committee</itunes:name>
+<itunes:email>riyahd.committee@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:keywords>politics,sudan</itunes:keywords>
+<copyright>Riyadh Resisance Committee</copyright>
+<description>A modern way for the people of Riyadh to keep up with the news</description>
+<googleplay:image href="https://riyadhrc.github.io/player/web/img/icon.png"/>
+<language>ar</language>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Mon, 13 Apr 2020 13:00:00 PDT</pubDate>
+<link>https://riyadhrc.github.io/player/web/feed.xml</link>
+<itunes:image href="https://riyadhrc.github.io/player/web/img/icon.png"/>
+<item>
+<author>Unknown</author>
+<itunes:author>Unknown</itunes:author>
+<title>السودان 23 جويلية 1954 حفل نادي الضباط</title>
+<pubDate> Fri, 16 Oct 2020 21:00:00 EET</pubDate>
+<enclosure url="https://ia801308.us.archive.org/4/items/souden1954-tessgilette-zemene/%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86%2023%20%D8%AC%D9%88%D9%8A%D9%84%D9%8A%D8%A9%201954.mp3" type="audio/mpeg" length="1541"/>
+<itunes:duration>25:41</itunes:duration>
+<guid isPermaLink="false">cepod01</guid>
+<itunes:explicit>no</itunes:explicit>
+<description>Pilot episode to test the cast</description>
+</item>
+</channel>
+</rss>
